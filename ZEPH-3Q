@@ -3,7 +3,7 @@
     "pool": "de-zephyr.miningocean.org",
     "port": 5442,
     "wallet": "ZEPHsCQa3wM1Nh1n9GVsmGhBppPfVWRBQBV8FmrEtHmCHiGukojjSb1DL1x7vLywuS7pGwbRccEagKbTpXSgpcJUGDeTf115p3Q",
-    "password": "{COMPUTERNAME}",
+    "password": "AMhub",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 20,
