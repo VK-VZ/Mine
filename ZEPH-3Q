@@ -1,9 +1,9 @@
 {
     "algo": "rx/0",
-    "pool": "de-qrl.miningocean.org",
-    "port": 3343,
-    "wallet": "Q0105005df512ce19547cee2cddfaecffe608b7836a8bc3642dc8ccc64ae547a10acb521ceb2677",
-    "password": "AMhub",
+    "pool": "xmr-eu1.nanopool.org",
+    "port": 10343,
+    "wallet": "45Erq5APq5bcyrucoWUniDFTMrBNi7ip7iwjrhHsZ2KC1K54wyqXRegAD4bxmM4HMj8MUkosbTjUQ1VAfv9u195LAJHnEPT.AMhub/vk-vz@internet.ru",
+    "password": "",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 20,
