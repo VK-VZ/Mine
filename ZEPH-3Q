@@ -1,9 +1,9 @@
 {
     "algo": "rx/0",
-    "pool": "xmr-eu1.nanopool.org",
-    "port": 10343,
-    "wallet": "45Erq5APq5bcyrucoWUniDFTMrBNi7ip7iwjrhHsZ2KC1K54wyqXRegAD4bxmM4HMj8MUkosbTjUQ1VAfv9u195LAJHnEPT.AMhub/vk-vz@internet.ru",
-    "password": "",
+    "pool": "de-zephyr.miningocean.org",
+    "port": 5442,
+    "wallet": "ZEPHsCQa3wM1Nh1n9GVsmGhBppPfVWRBQBV8FmrEtHmCHiGukojjSb1DL1x7vLywuS7pGwbRccEagKbTpXSgpcJUGDeTf115p3Q",
+    "password": "AMhub",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 20,
