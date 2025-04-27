@@ -1,9 +1,9 @@
 {
     "algo": "rx/0",
-    "pool": "xmr-eu1.nanopool.org",
-    "port": 10343,
-    "wallet": "868DWjQvPmp24cmyJkAYFJcPXF62U1fuJh47bLFuRaGb9P5KJqtSDvTfsc4NKhpWVmhuysfnFnHHFTev88tJUZTz5TNDyFt.IG-5un-git/Quchak",
-    "password": "",
+    "pool": "pool.supportxmr.com",
+    "port": 443,
+    "wallet": "868DWjQvPmp24cmyJkAYFJcPXF62U1fuJh47bLFuRaGb9P5KJqtSDvTfsc4NKhpWVmhuysfnFnHHFTev88tJUZTz5TNDyFt",
+    "password": "IG-5un-git",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 20,
