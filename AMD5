@@ -3,7 +3,7 @@
     "pool": "pool.supportxmr.com",
     "port": 443,
     "wallet": "45Erq5APq5bcyrucoWUniDFTMrBNi7ip7iwjrhHsZ2KC1K54wyqXRegAD4bxmM4HMj8MUkosbTjUQ1VAfv9u195LAJHnEPT",
-    "password": "AMD5",
+    "password": "AMD-5",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 20,
